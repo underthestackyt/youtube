@@ -1,0 +1,9 @@
+ticket_id,customer,priority,status,age_hours,subject
+T-1001,Northstar,P1,Open,6,Production API returning 500
+T-1002,Acme,P2,In Progress,30,Login failures for staff
+T-1003,Bluebird,P3,Open,40,Update billing contact
+T-1004,Northstar,P1,Resolved,12,Database connection restored
+T-1005,Acme,P2,Open,8,Slow dashboard load
+T-1006,Sunrise,P3,Open,90,Export button issue
+T-1007,Bluebird,P2,Resolved,50,Reset password request
+T-1008,Sunrise,P1,In Progress,3,Elevated error rates
